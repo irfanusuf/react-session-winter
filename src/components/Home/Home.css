@@ -1,0 +1,46 @@
+
+
+.main-section {
+
+background-image: url(../../assets/chun\ li.jpg);
+background-size: cover;
+    background-color: black;
+    display: flex;
+    height: 600px;
+    color: antiquewhite;
+}
+
+.left-sec{
+
+    width: 60%;
+}
+
+
+.title  {
+    margin-top: 100px;
+}
+
+.title p {
+    color: red;
+    margin: 0;
+    font-size: 72px;
+}
+
+
+.punch-line{
+
+    width: 300px;
+    margin-left: 300px;
+}
+
+
+
+
+.main-section-2{
+  background-image: url(../../assets/anime\ \(1\).jpg);
+  background-size: cover;
+  height: 90vh;
+
+
+
+}
